@@ -1,0 +1,4 @@
+Programmer - Ash_Bee226
+Graphic Designer - FinZin_
+Made Using Pygame
+Compiled With Nuitka
